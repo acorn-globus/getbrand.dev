@@ -6,4 +6,8 @@
     .btn {
         @apply px-6 py-4 text-base rounded-lg;
     }
+
+    .nav__link {
+        @apply text-pastelblue hover:text-primary transition duration-300 ease-in-out
+    }
 }

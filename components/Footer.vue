@@ -8,38 +8,14 @@
       />
       <div class="flex gap-6">
         <div class="flex flex-col md:flex-row gap-6">
-          <a
-            href=""
-            class="hover:text-primary transition duration-300 ease-in-out"
-            >Why GetBrand?</a
-          >
-          <a
-            href=""
-            class="hover:text-primary transition duration-300 ease-in-out"
-            >Brand</a
-          >
-          <a
-            href=""
-            class="hover:text-primary transition duration-300 ease-in-out"
-            >Developers</a
-          >
+          <a href="" class="nav__link">Why GetBrand?</a>
+          <a href="" class="nav__link">Brand</a>
+          <a href="" class="nav__link">Developers</a>
         </div>
         <div class="flex flex-col md:flex-row gap-6">
-          <a
-            href=""
-            class="hover:text-primary transition duration-300 ease-in-out"
-            >Blog</a
-          >
-          <a
-            href=""
-            class="hover:text-primary transition duration-300 ease-in-out"
-            >Signin</a
-          >
-          <a
-            href=""
-            class="hover:text-primary transition duration-300 ease-in-out"
-            >Register</a
-          >
+          <a href="" class="nav__link">Blog</a>
+          <a href="" class="nav__link">Signin</a>
+          <a href="" class="nav__link">Register</a>
         </div>
       </div>
       <p class="text-sm opacity-50">© 2023 GetBrand</p>
