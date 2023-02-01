@@ -4,7 +4,7 @@
       <a href="" class="flex items-center flex-shrink-0 text-white mr-6">
         <img src="~/assets/images/getbrand_logo.svg" alt="GetBrand" />
       </a>
-      <div class="block md:hidden flex-grow">
+      <div class="block md:hidden">
         <button
           @click="toggleNav"
           class="
