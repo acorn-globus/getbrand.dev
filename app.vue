@@ -1,5 +1,10 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <Nav />
+    <Hero />
+    <UnlockPotentialOfYourProduct />
+    <FeatureList />
+    <CTA />
+    <Footer />
   </div>
 </template>
