@@ -1,6 +1,19 @@
 <template>
-  <div class="bg-woodsmoke text-white py-28 px-5">
-    <div class="container mx-auto flex flex-col items-center text-center gap-8">
+  <div class="bg-woodsmoke bg-noise">
+    <Nav />
+    <div
+      class="
+        container
+        mx-auto
+        flex flex-col
+        items-center
+        text-center
+        gap-8
+        text-white
+        py-28
+        px-5
+      "
+    >
       <h1 class="text-5xl md:text-6xl font-bold leading-normal">
         Transform Your Online Presence
       </h1>

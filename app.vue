@@ -1,6 +1,5 @@
 <template>
   <div>
-    <Nav />
     <Hero />
     <UnlockPotentialOfYourProduct />
     <FeatureList />

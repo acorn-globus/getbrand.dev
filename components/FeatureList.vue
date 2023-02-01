@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="bg-woodsmoke bg-noise">
     <Feature1 />
     <Feature2 />
     <Feature3 />

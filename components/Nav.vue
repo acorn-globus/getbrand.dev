@@ -1,5 +1,5 @@
 <template>
-  <nav class="bg-woodsmoke p-6">
+  <nav class="bg-transparent p-6">
     <div class="container flex items-center justify-between flex-wrap mx-auto">
       <a href="" class="flex items-center flex-shrink-0 text-white mr-6">
         <img src="~/assets/images/getbrand_logo.svg" alt="GetBrand" />

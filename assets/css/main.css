@@ -176,3 +176,8 @@
          font-style: italic;
   }
   
+.bg-noise {
+     background-image: url('../images/noise-bg.png');
+     background-size: cover;
+     background-position: center;
+}
