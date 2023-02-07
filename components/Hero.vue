@@ -32,7 +32,7 @@
             duration-300
           "
         >
-          Get API Key
+          Get Early Access
         </button>
         <button
           class="

@@ -87,7 +87,7 @@
             md:mt-0
             hover:shadow-lg hover:shadow-primary/20
           "
-          >Get API Key</a
+          >Get Early Access</a
         >
       </div>
     </div>
