@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gunmetal py-16 px-5 overflow-x-hidden">
+  <div class="bg-gunmetal py-16 px-5 overflow-x-hidden" id="potential">
     <div
       class="container flex flex-col lg:flex-row items-center gap-14 mx-auto"
     >
