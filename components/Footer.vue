@@ -18,7 +18,23 @@
           <a href="" class="nav__link">Register</a>
         </div>
       </div>
-      <p class="text-sm opacity-50">© 2023 GetBrand</p>
+      <p class="text-sm opacity-70">
+        © 2023
+        <a
+          target="_black"
+          href="https://acornglobus.com/"
+          class="nav__link"
+        >
+          Acorn Globus
+        </a>
+        from the makers of
+        <a
+          target="_black"
+          href="https://formester.com/"
+          class="nav__link text-indigo-400"
+          >Formester</a
+        >
+      </p>
     </div>
   </footer>
 </template>
