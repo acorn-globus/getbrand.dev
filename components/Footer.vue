@@ -11,11 +11,7 @@
           <a href="#potential" class="nav__link">Potential</a>
           <a href="#personalization" class="nav__link">Personalization</a>
           <a href="user-experience" class="nav__link">User Experience</a>
-        </div>
-        <div class="flex flex-col md:flex-row gap-6">
           <a href="#engagement" class="nav__link">Engagement</a>
-          <a href="" class="nav__link">Signin</a>
-          <a href="" class="nav__link">Register</a>
         </div>
       </div>
       <p class="text-sm opacity-70">

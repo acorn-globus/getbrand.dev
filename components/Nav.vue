@@ -68,12 +68,6 @@
           Engagement
         </a>
         <a
-          href="#responsive-header"
-          class="block mt-4 md:inline-block md:mt-0 nav__link mr-8"
-        >
-          Signin
-        </a>
-        <a
           href="#"
           class="
             inline-block
