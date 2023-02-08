@@ -1,9 +1,10 @@
 <template>
-  <div class="bg-gunmetal py-16 px-5 overflow-x-hidden" id="potential">
+  <div class="bg-gunmetal py-16 px-5 md:px-12 overflow-x-hidden" id="potential">
     <div
       class="container flex flex-col lg:flex-row items-center gap-14 mx-auto"
     >
       <img
+        class="-mr-0 lg:-mr-60 2xl:-mr-0"
         src="~/assets/images/unlock-potential-of-your-product.png"
         alt="Image demonstrating Power of Powersonalization"
       />

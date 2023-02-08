@@ -1,5 +1,5 @@
 <template>
-  <div class="py-16 px-5" id="user-experience">
+  <div class="py-16 px-5 md:px-12" id="user-experience">
     <div
       class="container flex flex-col lg:flex-row items-center gap-14 mx-auto"
     >

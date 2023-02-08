@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-woodsmoke py-16 text-pastelblue">
+  <footer class="bg-woodsmoke py-16 px-5 text-pastelblue">
     <div class="container flex flex-col items-center mx-auto gap-6">
       <img
         class="w-24"
@@ -14,7 +14,7 @@
           <a href="#engagement" class="nav__link">Engagement</a>
         </div>
       </div>
-      <p class="text-sm opacity-70">
+      <p class="text-sm opacity-70 text-center">
         © 2023
         <a
           target="_black"
