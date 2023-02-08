@@ -1,21 +1,20 @@
 <template>
-  <div class="bg-gunmetal py-16 px-5 overflow-x-hidden">
+  <div class="bg-gunmetal py-16 px-5 md:px-12 overflow-x-hidden" id="potential">
     <div
       class="container flex flex-col lg:flex-row items-center gap-14 mx-auto"
     >
       <img
+        class="-mr-0 lg:-mr-60 2xl:-mr-0"
         src="~/assets/images/unlock-potential-of-your-product.png"
         alt="Image demonstrating Power of Powersonalization"
       />
       <div class="flex flex-col items-start gap-8 lg:order-first">
         <div class="flex flex-col gap-4">
           <h2 class="text-4xl md:text-5xl text-white">
-            Unleash the Power of Personalization
+            Unlock the Potential of Your Product
           </h2>
           <p class="text-base md:text-xl text-pastelblue">
-            Make your users feel like they're in the right place by
-            automatically filling in logos, colors, fonts, and more for every
-            brand
+            Get instant access to every brand's visual assets, including logos, colors, fonts, and more, to create a truly unique and personalized experience for your users.
           </p>
         </div>
         <button

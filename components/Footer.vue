@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-woodsmoke py-16 text-pastelblue">
+  <footer class="bg-woodsmoke py-16 px-5 text-pastelblue">
     <div class="container flex flex-col items-center mx-auto gap-6">
       <img
         class="w-24"
@@ -8,17 +8,29 @@
       />
       <div class="flex gap-6">
         <div class="flex flex-col md:flex-row gap-6">
-          <a href="" class="nav__link">Why GetBrand?</a>
-          <a href="" class="nav__link">Brand</a>
-          <a href="" class="nav__link">Developers</a>
-        </div>
-        <div class="flex flex-col md:flex-row gap-6">
-          <a href="" class="nav__link">Blog</a>
-          <a href="" class="nav__link">Signin</a>
-          <a href="" class="nav__link">Register</a>
+          <a href="#potential" class="nav__link">Potential</a>
+          <a href="#personalization" class="nav__link">Personalization</a>
+          <a href="user-experience" class="nav__link">User Experience</a>
+          <a href="#engagement" class="nav__link">Engagement</a>
         </div>
       </div>
-      <p class="text-sm opacity-50">© 2023 GetBrand</p>
+      <p class="text-sm opacity-70 text-center">
+        © 2023
+        <a
+          target="_black"
+          href="https://acornglobus.com/"
+          class="nav__link"
+        >
+          Acorn Globus
+        </a>
+        from the makers of
+        <a
+          target="_black"
+          href="https://formester.com/"
+          class="nav__link text-indigo-400"
+          >Formester</a
+        >
+      </p>
     </div>
   </footer>
 </template>

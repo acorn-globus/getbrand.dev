@@ -44,34 +44,28 @@
         :class="[showNav ? 'block' : 'hidden']"
       >
         <a
-          href="#responsive-header"
+          href="#potential"
           class="block mt-4 md:inline-block md:mt-0 nav__link mr-8"
         >
-          Why GetBrand?
+          Potential
         </a>
         <a
-          href="#responsive-header"
+          href="#personalization"
           class="block mt-4 md:inline-block md:mt-0 nav__link mr-8"
         >
-          Brand
+          Personalization
         </a>
         <a
-          href="#responsive-header"
+          href="#user-experience"
           class="block mt-4 md:inline-block md:mt-0 nav__link mr-8"
         >
-          Developers
+          User Experience
         </a>
         <a
-          href="#responsive-header"
+          href="#engagement"
           class="block mt-4 md:inline-block md:mt-0 nav__link mr-8"
         >
-          Blog
-        </a>
-        <a
-          href="#responsive-header"
-          class="block mt-4 md:inline-block md:mt-0 nav__link mr-8"
-        >
-          Signin
+          Engagement
         </a>
         <a
           href="#"
@@ -87,7 +81,7 @@
             md:mt-0
             hover:shadow-lg hover:shadow-primary/20
           "
-          >Get API Key</a
+          >Get Early Access</a
         >
       </div>
     </div>

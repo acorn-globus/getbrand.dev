@@ -175,6 +175,10 @@
          font-display: swap;
          font-style: italic;
   }
+
+html {
+     scroll-behavior: smooth;
+}
   
 .bg-noise {
      background-image: url('../images/noise-bg.png');
